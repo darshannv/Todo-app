@@ -1,0 +1,7 @@
+prepare
+vlog to be edited
+list
+game
+new
+old
+soup
