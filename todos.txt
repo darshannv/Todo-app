@@ -1,8 +1,10 @@
 prepare
 vlog to be edited
 list
-game
+item game
 new
-old
-soup
+ method old
+ me soup
 master python
+test
+my new todo is added
