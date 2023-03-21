@@ -3,8 +3,6 @@ vlog to be edited
 list
 item game
 new
- method old
- me soup
 master python
 test
 my new todo is added
