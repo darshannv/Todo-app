@@ -21,6 +21,10 @@ edit_button = sg.Button("Edit")
 complete_button = sg.Button("Complete")
 exit_button = sg.Button("Exit")
 
+# col1 = sg.Column([input_box, add_button])
+# col2 = sg.Column([list_box, edit_button, complete_button])
+# col3 = sg.Column([exit_button])
+
 window = sg.Window('My To-Do App',
                    layout=[[clock],
                            [label],
