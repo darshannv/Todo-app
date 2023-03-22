@@ -70,4 +70,7 @@ while True:
             break
 
 
+
 window.close()
+
+# pyinstaller --onefile --windowed --clean gui.py
